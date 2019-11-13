@@ -6,3 +6,11 @@
 
 * [이터러블 이란](./chapter/iterator.ipynb)
 * [커링이란?](./chapter/Currying.ipynb)
+* [프로토타입](./chapter/prototype.ipynb)
+* [lodash](./chapter/lodash.ipynb)
+
+## 사용법
+
+```sh
+npm install
+```
