@@ -4,5 +4,5 @@
 
 ## 구성
 
-* [이터러블 이란](./iterator.ipynb)
-* [커링이란?](./Currying.ipynb)
+* [이터러블 이란](./chapter/iterator.ipynb)
+* [커링이란?](./chapter/Currying.ipynb)
